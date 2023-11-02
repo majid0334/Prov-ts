@@ -1,0 +1,15 @@
+{
+  "name": "typescript-prov-fjs22-main",
+  "version": "1.0.0",
+  "description": "**Tid 9.30 - 12.00 torsdag 2 november i sal 5.**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2",
+    "zod": "^3.22.4"
+  }
+}
